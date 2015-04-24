@@ -1,6 +1,7 @@
 {
   "name": "angular-material",
   "version": "0.9.0-rc1",
+  "main": "dist/angular-material.js",
   "repository": {
     "url": "git://github.com/angular/material.git"
   },
